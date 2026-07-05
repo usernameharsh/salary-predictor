@@ -3,4 +3,5 @@ Include/
 Scripts/
 share/
 etc/
+*.ipynb
 pyvenv.cfg
